@@ -1,0 +1,7 @@
+2026-10-09 20:16:05 | INFO    | IdLista=18 | Factura=FE-20871 | NIT=900123456 | CAUSADA | CXP-2026-000001
+2026-10-09 20:16:07 | INFO    | IdLista=21 | Factura=ST-3307 | NIT=830456789 | CAUSADA | CXP-2026-000002
+2026-10-09 20:16:09 | WARNING | IdLista=22 | Factura=MI-0077 | NIT=900999001 | RECHAZADA | El NIT 900999001 no está registrado como proveedor
+2026-10-09 20:16:09 | WARNING | IdLista=23 | Factura=PS-1188 | NIT=860567890 | RECHAZADA | La fecha de factura no puede ser posterior a la fecha actual
+2026-10-09 20:16:10 | WARNING | IdLista=24 | Factura=FE-20871 | NIT=901345678 | REINTENTO 1 de 2 | Servicio temporalmente no disponible (SICOF-503)
+2026-10-09 20:16:14 | INFO    | IdLista=24 | Factura=FE-20871 | NIT=901345678 | CAUSADA | CXP-2026-000003
+2026-10-09 20:16:16 | INFO    | IdLista=19 | Factura=TR-5530 | NIT=800234567 | CAUSADA | CXP-2026-000004
